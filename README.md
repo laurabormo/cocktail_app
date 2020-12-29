@@ -1,2 +1,2 @@
-# cocktail_app
+# cocktailapp
 Created with CodeSandbox
