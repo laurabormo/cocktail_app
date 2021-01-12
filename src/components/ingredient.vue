@@ -16,7 +16,7 @@
 <script>
 import DataService from "../dataservice";
 export default {
-  name: "drinks",
+  name: "categories",
   data() {
     return {
       drinks: [],
