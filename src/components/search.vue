@@ -29,7 +29,7 @@
 <script>
 import DataService from "../dataservice";
 export default {
-  name: "drinks",
+  name: "search",
   data() {
     return {
       drinks: [],
